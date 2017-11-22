@@ -1,0 +1,71 @@
+en:
+  numbers:
+    ones: ['không', 'một', 'hai', 'ba', 'bốn', 'năm', 'sáu', 'bảy', 'tám', 'chín']
+    teens: [_, 'mười một', 'mười hai', 'mười ba', 'mười bốn', 'mười lăm', 'mười sáu', 'mười bảy', 'thứ mười tám', 'mười chín']
+    tens: [_, 'mười', 'hai mươi', 'ba mươi', 'bốn mươi', 'năm mươi', 'sáu mươi', 'bảy mươi', 'tám mươi', 'chín mươi']
+    hundreds: 'trăm'
+    mega: [_, 'nghìn', 'triệu', 'tỷ', 'nghìn tỷ', 'triệu tỷ', 'tỷ tỷ', 'nghìn tỷ tỷ', 'triệu tỷ tỷ', 'tỷ tỷ tỷ', 'nghìn tỷ tỷ tỷ', 'triệu tỷ tỷ tỷ', 'tỷ tỷ tỷ tỷ', 'nghìn tỷ tỷ tỷ tỷ', 'triệu tỷ tỷ tỷ tỷ', 'tỷ tỷ tỷ tỷ tỷ']
+    ordinal:
+      ones: ['thứ khống', 'thứ nhất', 'thứ hai', 'thứ ba', 'thứ tư', 'thứ năm', 'thứ sáu', 'thứ bảy', 'thứ tám', 'thứ chín']
+      teens: [_, 'thứ mười một', 'thứ mười hai', 'thứ mười ba', 'thứ mười bốn', 'thứ mười lăm', 'thứ mười sáu', 'thứ mười bảy', 'thứ mười tám', 'thứ mười chín']
+      tens: [_, 'thứ mười', 'thứ hai mươi', 'thứ ba mươi', 'thứ bốn mươi', 'thứ năm mươi', 'thứ sáu mươi', 'thứ bảy mươi', 'thứ tám mươi', 'thứ chín mươi']
+      hundreds: thứ một trăm
+      mega: [_, 'thứ một nghìn', 'thứ một triệu', 'thứ một tỷ', 'thứ một nghìn tỷ', 'thứ một triệu tỷ', 'thứ một tỷ tỷ', 'thứ một nghìn tỷ tỷ', 'thứ một triệu tỷ tỷ', 'thứ một tỷ tỷ tỷ', 'thứ một nghìn tỷ tỷ tỷ', 'thứ một triệu tỷ tỷ tỷ', 'thứ một tỷ tỷ tỷ tỷ', 'thứ một nghìn tỷ tỷ tỷ tỷ', 'thứ một triệu tỷ tỷ tỷ tỷ', 'thứ một tỷ tỷ tỷ tỷ tỷ']
+    # micro: [_, 'phần mười', 'phần trăm', 'phần nghìn', 'phần triệu', 'phần tỷ', 'phần nghìn tỷ', 'phần triệu tỷ', 'phần tỷ tỷ', 'phần nghìn tỷ tỷ', 'phần triệu tỷ tỷ', 'phần tỷ tỷ tỷ', 'phần nghìn tỷ tỷ tỷ', 'phần triệu tỷ tỷ tỷ', 'phần tỷ tỷ tỷ tỷ', 'phần nghìn tỷ tỷ tỷ tỷ', 'phần triệu tỷ tỷ tỷ tỷ', 'phần tỷ tỷ tỷ tỷ tỷ']
+    tenths:
+      one: 'một phần mười'
+      other: phần mười
+    hundredths:
+      one: 'một phần trăm'
+      other: 'phần trăm'
+    thousandths:
+      one: 'một phần nghìn'
+      other: 'phần nghìn'
+    millionths:
+      one: 'một phần triệu'
+      other: 'phần triệu'
+    billionths:
+      one: 'một phần tỷ'
+      other: 'phần tỷ'
+    trillionths:
+      one: 'một phần nghìn tỷ'
+      other: 'phần nghìn tỷ'
+    quadrillionths:
+      one: 'một phần triệu tỷ'
+      other: 'phần triệu tỷ'
+    quintillionths:
+      one: 'một phần tỷ tỷ'
+      other: 'phần tỷ tỷ'
+    sextillionths:
+      one: 'một phần nghìn tỷ tỷ'
+      other: 'phần nghìn tỷ tỷ'
+    septillionths:
+      one: 'một phần triệu tỷ tỷ'
+      other: 'phần triệu tỷ tỷ'
+    octillionths:
+      one: 'một phần tỷ tỷ tỷ'
+      other: 'phần tỷ tỷ tỷ'
+    nonillionths:
+      one: 'một phần nghìn tỷ tỷ tỷ'
+      other: 'phần nghìn tỷ tỷ tỷ'
+    decillionths:
+      one: 'một phần triệu tỷ tỷ tỷ'
+      other: 'phần triệu tỷ tỷ tỷ'
+    undecillionths:
+      one: 'một phần tỷ tỷ tỷ tỷ'
+      other: 'phần tỷ tỷ tỷ tỷ'
+    duodecillionths:
+      one: 'một phần nghìn tỷ tỷ tỷ tỷ'
+      other: 'phần nghìn tỷ tỷ tỷ tỷ'
+    tredecillionths:
+      one: 'một phần triệu tỷ tỷ tỷ tỷ'
+      other: 'phần triệu tỷ tỷ tỷ tỷ'
+    quattuordecillionths:
+      one: 'một phần tỷ tỷ tỷ tỷ tỷ'
+      other: 'phần tỷ tỷ tỷ tỷ tỷ'
+    micro_separator: 'lẻ'
+    micro_prefix:
+      tens: 'mười'
+      hundreds: 'trăm'
+      union: '-'
+    union: 'lẻ'
